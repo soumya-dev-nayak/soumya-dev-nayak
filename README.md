@@ -1,75 +1,94 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# 👋 Hi, I'm Soumya Dev Nayak
+# Soumya Dev Nayak
 
-### VLSI • RTL Design • ASIC • FPGA • RISC-V • Open-Source EDA
+### VLSI • Analog & Digital IC Design • RTL • ASIC • FPGA • Verification
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Digital+Systems+%F0%9F%92%BB;Designing+RTL+%26+Digital+Circuits+%E2%9A%A1;Exploring+ASIC+%26+VLSI+Design+%F0%9F%94%AC;Building+with+RISC-V+%F0%9F%9A%80;Learning+%26+Building+with+Open-Source+EDA+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Designing+and+understanding+hardware+systems.;From+analog+circuits+to+RTL+and+ASIC+flows.;Exploring+VLSI%2C+RISC-V%2C+FPGA+and+open-source+EDA." alt="Introduction" />
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="www.linkedin.com/in/soumya-dev-nayak-6442762a8">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=8B949E" />
 </a>
-
+&nbsp;
 <a href="https://github.com/soumya-dev-nayak">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=8B949E" />
 </a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+&nbsp;
+<a href="mailto:soumyadevnayak8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=8B949E" />
 </a>
 
 </div>
 
-<br>
+---
+
+## About
+
+I'm **Soumya Dev Nayak**, an engineering enthusiast working across
+**VLSI, analog and digital IC design, RTL development, and hardware
+implementation**.
+
+My work ranges from designing and simulating **analog circuits at the
+transistor level** to developing **digital systems in Verilog**, building
+**RISC-V processor architectures**, implementing designs on **FPGAs**,
+and exploring complete **RTL-to-GDSII ASIC flows** using open-source EDA
+tools.
+
+I enjoy understanding systems at the level where theory becomes
+hardware — designing, simulating, implementing, debugging, and
+iterating on real circuits and architectures.
 
 ---
 
-## 🧑‍💻 About Me
+## What I Work On
 
-I'm **Soumya Dev Nayak**, an engineering enthusiast passionate about
-**VLSI, digital hardware design, and open-source semiconductor tools**.
+### Analog & Mixed-Signal Design
 
-I enjoy turning ideas into working hardware — from **transistor-level
-circuits and digital logic** to **RTL designs, FPGA implementations,
-and complete RTL-to-GDSII ASIC flows**.
+- Transistor-level circuit design
+- CMOS logic and analog circuits
+- Circuit simulation and characterization
+- SPICE / NGSpice
+- Device and circuit parameter analysis
 
-I'm particularly interested in exploring the intersection of:
+### Digital & RTL Design
 
-**VLSI × EDA × Computer Architecture × RISC-V × Open Source**
+- Combinational and sequential logic
+- Verilog RTL design
+- Processor architectures
+- RISC-V
+- FPGA implementation
 
-I build, simulate, implement, break, debug, and rebuild things to
-understand how hardware actually works — from the circuit level all
-the way toward silicon.
+### ASIC & VLSI
 
----
-
-## 🔭 What I Build
-
-- ⚡ **RTL & Digital Designs**
-- 🧠 **RISC-V Processor Architectures**
-- 🔬 **Analog & Digital IC Circuits**
-- 🖥️ **FPGA Implementations**
-- 🏭 **RTL-to-GDSII ASIC Flows**
-- 🛠️ **Open-Source EDA Workflows**
-- 💻 **Hardware + Software Projects**
+- RTL-to-GDSII design flow
+- Open-source EDA
+- SKY130 PDK
+- Synthesis and physical design
+- Simulation, verification and layout
 
 ---
 
-## 🌱 What I Do
+## Areas of Interest
 
-I'm continuously learning and experimenting with:
-
-**Digital IC Design · ASIC Design · FPGA · RTL · Verilog · RISC-V ·
-Analog Design · Open-Source EDA · SKY130**
-
-My goal is simple:
-
-> **Learn deeply. Build things. Share the knowledge. Keep improving.**
+`VLSI` · `Analog IC Design` · `Digital IC Design` · `RTL Design`
+· `ASIC` · `FPGA` · `RISC-V` · `EDA` · `Open-Source Silicon`
 
 ---
+
+## Selected Work
+
+My repositories document practical work across analog design,
+digital systems, processor architecture, FPGA implementation,
+and open-source ASIC flows.
+
+More details → **[Explore my repositories](https://github.com/soumya-dev-nayak?tab=repositories)**
+
+---
+
+<div align="center">
+
+### Build → Simulate → Implement → Understand
+
+</div>
