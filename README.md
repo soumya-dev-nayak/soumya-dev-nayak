@@ -94,6 +94,24 @@ More details → **[Explore my repositories](https://github.com/soumya-dev-nayak
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soumya-dev-nayak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dev-nayak&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-dev-nayak&hide_border=true&theme=transparent" />
+
+</div>
+
 <div align="center">
 
 ### Build → Simulate → Verify → Implement → Understand
