@@ -50,7 +50,7 @@ and iterating on real circuits and architectures.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=verilog,c,cpp,python,arduino,nodejs,express,mongodb,react,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=verilog,c,cpp,java,python,arduino,nodejs,express,mongodb,react,git,linux,vscode&theme=dark" />
 
 <br><br>
 
