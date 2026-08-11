@@ -27,12 +27,12 @@
 ## About
 
 I'm **Soumya Dev Nayak**, an engineering enthusiast working across
-**VLSI, analog and digital IC design, RTL development, and hardware
-implementation**.
+**VLSI, analog and digital IC design, RTL development, hardware
+implementation and hardware verification**.
 
 My work ranges from designing and simulating **analog circuits at the
 transistor level** to developing **digital systems in Verilog**, building
-**RISC-V processor architectures**, implementing designs on **FPGAs**,
+**processor architectures**, Performing **Hardware Verification**, implementing designs on **FPGAs**,
 and exploring complete **RTL-to-GDSII ASIC flows** using open-source EDA
 tools.
 
@@ -65,6 +65,7 @@ iterating on real circuits and architectures.
 - RTL-to-GDSII design flow
 - Open-source EDA
 - SKY130 PDK
+- GF180 mcu PDK
 - Synthesis and physical design
 - Simulation, verification and layout
 
