@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="www.linkedin.com/in/soumya-dev-nayak-6442762a8">
+<a href="https://www.linkedin.com/in/soumya-dev-nayak-6442762a8">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=8B949E" />
 </a>
 &nbsp;
@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=8B949E" />
 </a>
 
+<br><br>
+
+**Open to internships, graduate roles, and opportunities in VLSI & Hardware Design.**
+
 </div>
 
 ---
@@ -28,17 +32,17 @@
 
 I'm **Soumya Dev Nayak**, an engineering enthusiast working across
 **VLSI, analog and digital IC design, RTL development, hardware
-implementation and hardware verification**.
+implementation, and verification**.
 
 My work ranges from designing and simulating **analog circuits at the
 transistor level** to developing **digital systems in Verilog**, building
-**processor architectures**, Performing **Hardware Verification**, implementing designs on **FPGAs**,
-and exploring complete **RTL-to-GDSII ASIC flows** using open-source EDA
-tools.
+**processor architectures**, performing **hardware verification**,
+implementing designs on **FPGAs**, and exploring complete
+**RTL-to-GDSII ASIC flows** using open-source EDA tools.
 
 I enjoy understanding systems at the level where theory becomes
-hardware — designing, simulating, implementing, debugging, and
-iterating on real circuits and architectures.
+hardware — designing, simulating, implementing, verifying, debugging,
+and iterating on real circuits and architectures.
 
 ---
 
@@ -59,30 +63,32 @@ iterating on real circuits and architectures.
 - Processor architectures
 - RISC-V
 - FPGA implementation
+- Hardware verification
 
 ### ASIC & VLSI
 
-- RTL-to-GDSII design flow
+- RTL-to-GDSII design flows
 - Open-source EDA
 - SKY130 PDK
-- GF180 mcu PDK
-- Synthesis and physical design
-- Simulation, verification and layout
+- GF180MCU PDK
+- Logic synthesis and physical design
+- Simulation, verification, and layout
 
 ---
 
 ## Areas of Interest
 
 `VLSI` · `Analog IC Design` · `Digital IC Design` · `RTL Design`
-· `ASIC` · `FPGA` · `RISC-V` · `EDA` · `Open-Source Silicon`
+· `ASIC` · `FPGA` · `RISC-V` · `Hardware Verification`
+· `EDA` · `Open-Source Silicon`
 
 ---
 
 ## Selected Work
 
-My repositories document practical work across analog design,
+My repositories document practical work across **analog design,
 digital systems, processor architecture, FPGA implementation,
-and open-source ASIC flows.
+hardware verification, and open-source ASIC flows**.
 
 More details → **[Explore my repositories](https://github.com/soumya-dev-nayak?tab=repositories)**
 
@@ -90,6 +96,6 @@ More details → **[Explore my repositories](https://github.com/soumya-dev-nayak
 
 <div align="center">
 
-### Build → Simulate → Implement → Understand
+### Build → Simulate → Verify → Implement → Understand
 
 </div>
