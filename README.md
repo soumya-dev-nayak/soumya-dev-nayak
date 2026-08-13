@@ -26,7 +26,6 @@ Exploring **AI-assisted design and verification** for faster iteration, deeper a
 
 At the core, I care about one thing: **understanding systems deeply, from transistor to architecture, and building them properly.**
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## Tech Stack
@@ -136,10 +135,6 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 
 ## GitHub Activity
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## GitHub Activity
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=soumya-dev-nayak&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=8B5CF6&text_color=C9D1D9&ring_color=67E8F9&count_private=true&include_all_commits=true" width="49%" />
@@ -159,6 +154,10 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 <img src="https://github-profile-trophy.vercel.app/?username=soumya-dev-nayak&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<div align="center">
 
 `Open to internships and graduate roles in VLSI, RTL & Hardware Design`
 
