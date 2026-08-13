@@ -18,11 +18,14 @@
 
 ## About
 
-Final-year ECE student building at the boundary of silicon and software — analog & digital IC design, RTL, and hardware verification, with AI woven into the design process itself rather than bolted on after.
+I build at the intersection of **silicon and software** — spanning analog & digital IC design, RTL, processor architecture, and hardware verification, with AI integrated into the engineering workflow.
 
-Core work: Verilog RTL and processor architecture (a RISC-V single-cycle core, built and verified on FPGA), plus transistor-level analog design in open-source EDA — Magic, Xschem, Netgen, SKY130. On the applied side, I build embedded/IoT systems and increasingly use AI-assisted workflows for design exploration, verification, and documentation, treating it as another tool in the flow rather than a shortcut.
+My work ranges from **Verilog RTL and Processor design** to **transistor-level analog design** using open-source EDA tools such as Magic, Xschem, Netgen, and SKY130. I also build **embedded and IoT systems**, connecting hardware, firmware, and intelligent software into complete systems.
 
-What drives it: understanding a system completely, not just getting it to work.
+Exploring **AI-assisted design and verification** for faster iteration, deeper analysis, and better engineering workflows — not as a replacement for understanding, but as another tool in the toolbox.
+
+At the core, I care about one thing: **understanding systems deeply, from transistor to architecture, and building them properly.**
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
