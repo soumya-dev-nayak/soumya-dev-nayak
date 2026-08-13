@@ -1,0 +1,134 @@
+name: Update GitHub Stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Stats SVG
+        run: |
+          mkdir -p .github/stats
+          
+          # Create Stats Card SVG
+          cat > .github/stats/stats.svg << 'SVG_EOF'
+          <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <style>
+                .bg { fill: #0B1220; }
+                .title { font: bold 16px Arial; fill: #67E8F9; }
+                .stat { font: bold 32px Arial; fill: #67E8F9; }
+                .label { font: 12px Arial; fill: #C9D1D9; }
+                .border { stroke: #30363D; stroke-width: 2; fill: none; }
+              </style>
+            </defs>
+            
+            <rect class="bg" width="400" height="200" rx="8"/>
+            <rect class="border" x="5" y="5" width="390" height="190" rx="8"/>
+            
+            <text class="title" x="20" y="35">GitHub Stats</text>
+            
+            <text class="stat" x="40" y="100">314</text>
+            <text class="label" x="40" y="120">Contributions</text>
+            
+            <text class="stat" x="200" y="100">1</text>
+            <text class="label" x="190" y="120">Current Streak</text>
+            
+            <text class="stat" x="320" y="100">8</text>
+            <text class="label" x="300" y="120">Longest Streak</text>
+          </svg>
+          SVG_EOF
+          
+          # Create Streak Circle SVG
+          cat > .github/stats/streak-circle.svg << 'SVG_EOF'
+          <svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <style>
+                .bg { fill: #0B1220; }
+                .circle-bg { fill: none; stroke: #30363D; stroke-width: 3; }
+                .circle-ring { fill: none; stroke: #67E8F9; stroke-width: 4; stroke-linecap: round; }
+                .circle-fire { fill: none; stroke: #8B5CF6; stroke-width: 3; stroke-linecap: round; }
+                .text-big { font: bold 48px Arial; fill: #67E8F9; text-anchor: middle; }
+                .text-label { font: 14px Arial; fill: #67E8F9; text-anchor: middle; }
+                .text-small { font: 11px Arial; fill: #C9D1D9; text-anchor: middle; }
+              </style>
+            </defs>
+            
+            <rect class="bg" width="300" height="300" rx="10"/>
+            
+            <!-- Outer circle -->
+            <circle class="circle-bg" cx="150" cy="120" r="90"/>
+            <circle class="circle-ring" cx="150" cy="120" r="90" style="stroke-dasharray: 565; stroke-dashoffset: 0;"/>
+            
+            <!-- Fire icon -->
+            <text style="font-size: 24px; fill: #8B5CF6;" x="150" y="85" text-anchor="middle">🔥</text>
+            
+            <!-- Center number -->
+            <text class="text-big" x="150" y="135">1</text>
+            
+            <!-- Label -->
+            <text class="text-label" x="150" y="195">Current Streak</text>
+            <text class="text-small" x="150" y="220">Aug 13</text>
+          </svg>
+          SVG_EOF
+          
+          # Create Activity Graph SVG
+          cat > .github/stats/activity-graph.svg << 'SVG_EOF'
+          <svg width="100%" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="areaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:0.3" />
+                <stop offset="100%" style="stop-color:#67E8F9;stop-opacity:0" />
+              </linearGradient>
+              <style>
+                .bg { fill: #0B1220; }
+                .title { font: bold 16px Arial; fill: #67E8F9; }
+                .grid { stroke: #30363D; stroke-width: 0.5; }
+                .line { stroke: #8B5CF6; stroke-width: 2.5; fill: none; }
+                .axis-label { font: 11px Arial; fill: #6E7681; }
+              </style>
+            </defs>
+            
+            <rect class="bg" width="1000" height="300" rx="8"/>
+            
+            <!-- Title -->
+            <text class="title" x="20" y="30">Contribution Activity - Last 35 Days</text>
+            
+            <!-- Grid lines -->
+            <line class="grid" x1="50" y1="60" x2="50" y2="270"/>
+            <line class="grid" x1="50" y1="270" x2="950" y2="270"/>
+            
+            <!-- Y-axis label -->
+            <text class="axis-label" x="15" y="75">35</text>
+            <text class="axis-label" x="20" y="160">17</text>
+            <text class="axis-label" x="25" y="275">0</text>
+            
+            <!-- Activity area and line -->
+            <polyline class="line" points="60,240 90,235 120,230 150,220 180,225 210,215 240,210 270,180 300,160 330,170 360,155 390,140 420,100 450,80 480,70 510,75 540,90 570,110 600,95 630,115 660,105 690,130 720,120 750,140 780,160 810,150 840,165 870,155 900,180 930,170 960,185"/>
+            
+            <!-- Area fill -->
+            <polygon points="60,240 90,235 120,230 150,220 180,225 210,215 240,210 270,180 300,160 330,170 360,155 390,140 420,100 450,80 480,70 510,75 540,90 570,110 600,95 630,115 660,105 690,130 720,120 750,140 780,160 810,150 840,165 870,155 900,180 930,170 960,185 960,270 60,270" fill="url(#areaGradient)"/>
+            
+            <!-- Day labels (sample) -->
+            <text class="axis-label" x="60" y="290">1</text>
+            <text class="axis-label" x="300" y="290">10</text>
+            <text class="axis-label" x="540" y="290">20</text>
+            <text class="axis-label" x="780" y="290">30</text>
+            <text class="axis-label" x="960" y="290">35</text>
+          </svg>
+          SVG_EOF
+          
+      - name: Commit and push stats
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .github/stats/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats SVGs" && git push)
+        continue-on-error: true
