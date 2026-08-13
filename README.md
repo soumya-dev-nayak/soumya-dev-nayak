@@ -1,3 +1,9 @@
+<div align="right">
+
+<img src="https://komarev.com/ghpvc/?username=soumya-dev-nayak&style=flat-square&color=grey" height="20"/>
+
+</div>
+
 <div align="center">
 
 # Soumya Dev Nayak
@@ -8,19 +14,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=8B949E)](https://github.com/soumya-dev-nayak)
 [![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=8B949E)](mailto:soumyadevnayak8@gmail.com)
 
-`Open to internships and graduate roles in VLSI, RTL & Hardware Design`
-
-<img src="https://komarev.com/ghpvc/?username=soumya-dev-nayak&style=flat-square&color=grey" height="20"/>
-
 </div>
 
 ## About
 
-I'm a final-year B.Tech Electronics and Communication Engineering student, working at the intersection of analog and digital IC design, RTL development, and hardware verification. My interest lies in understanding electronic systems from the transistor up — how a circuit's physical behavior on silicon connects to the logic and architecture built on top of it.
+Final-year ECE student building at the boundary of silicon and software — analog & digital IC design, RTL, and hardware verification, with AI woven into the design process itself rather than bolted on after.
 
-On the digital side, I design and verify RTL in Verilog, with a focus on processor architecture — most recently a RISC-V single-cycle core implemented and tested on FPGA. On the analog side, I work with SPICE-level simulation and open-source EDA tools (Magic, Xschem, Netgen) using the SKY130 PDK to explore circuit design and layout. I also build embedded and IoT systems as a practical extension of this work, integrating microcontrollers, wireless communication, and full-stack software to get hardware talking to the real world.
+Core work: Verilog RTL and processor architecture (a RISC-V single-cycle core, built and verified on FPGA), plus transistor-level analog design in open-source EDA — Magic, Xschem, Netgen, SKY130. On the applied side, I build embedded/IoT systems and increasingly use AI-assisted workflows for design exploration, verification, and documentation, treating it as another tool in the flow rather than a shortcut.
 
-I like projects that force me to understand a system completely — not just to make it work, but to know why it works.
+What drives it: understanding a system completely, not just getting it to work.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -123,7 +125,7 @@ I like projects that force me to understand a system completely — not just to 
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-161B22?style=for-the-badge&color=30363D)
 ![IoT](https://img.shields.io/badge/IoT-161B22?style=for-the-badge&color=30363D)
 ![EDA](https://img.shields.io/badge/EDA-161B22?style=for-the-badge&color=30363D)
-![Open Source Silicon](https://img.shields.io/badge/Open--Source_Silicon-161B22?style=for-the-badge&color=30363D)
+![AI-Assisted Design](https://img.shields.io/badge/AI--Assisted_Design-161B22?style=for-the-badge&color=30363D)
 
 </div>
 
@@ -133,18 +135,14 @@ I like projects that force me to understand a system completely — not just to 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumya-dev-nayak&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=8B949E&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dev-nayak&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9&border_color=30363D&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=soumya-dev-nayak&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dev-nayak&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8" width="42%" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-dev-nayak&hide_border=true&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&border=30363D" width="70%" />
+<img src="https://streak-stats.demolab.com?user=soumya-dev-nayak&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681&border=30363D" width="70%" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-dev-nayak&theme=react-dark&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&hide_border=true&title_color=8B949E" width="95%" />
-
-<br>
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=soumya-dev-nayak&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%" />
 
@@ -153,6 +151,8 @@ I like projects that force me to understand a system completely — not just to 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
+
+`Open to internships and graduate roles in VLSI, RTL & Hardware Design`
 
 ### Build → Simulate → Verify → Implement → Understand
 
