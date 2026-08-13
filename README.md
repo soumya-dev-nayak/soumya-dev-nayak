@@ -137,21 +137,16 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumya-dev-nayak&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=8B5CF6&text_color=C9D1D9&ring_color=67E8F9&count_private=true&include_all_commits=true" width="49%" />
+<!-- Stats Card -->
+<img src=".github/stats/stats.svg" width="48%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dev-nayak&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=C9D1D9&langs_count=8" width="42%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=soumya-dev-nayak&hide_border=true&background=0B1220&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&currStreakNum=F8FAFC&sideLabels=C9D1D9&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="70%" />
+<!-- Streak Circle -->
+<img src=".github/stats/streak-circle.svg" width="48%" alt="Streak Circle" style="margin-left: 2%;"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-dev-nayak&bg_color=0B1220&color=C9D1D9&title_color=67E8F9&line=8B5CF6&point=67E8F9&area_color=312E81&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity&days=35" width="95%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=soumya-dev-nayak&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%" />
+<!-- Activity Graph -->
+<img src=".github/stats/activity-graph.svg" width="95%" alt="Contribution Activity Graph"/>
 
 </div>
 
