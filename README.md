@@ -143,7 +143,7 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=soumya-dev-nayak&hide_border=true&background=0B1220&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&currStreakNum=F8FAFC&sideLabels=C9D1D9&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="70%" />
+<img src="https://github-readme-streak-stats-zbwg.vercel.app/?user=soumya-dev-nayak&hide_border=true&background=0B1220&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&currStreakNum=F8FAFC&sideLabels=C9D1D9&sideNums=F8FAFC&dates=64748B&stroke=1E293B" width="70%" />
 
 <br><br>
 
