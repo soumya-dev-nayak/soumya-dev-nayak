@@ -150,8 +150,6 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=soumya-dev-nayak&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
