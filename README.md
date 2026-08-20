@@ -137,9 +137,8 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=soumya-dev-nayak&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=8B5CF6&ring_color=67E8F9&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=soumya-dev-nayak&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=C9D1D9&langs_count=8" width="42%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=soumya-dev-nayak&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=C9D1D9&langs_count=8" width="50%" />
 
 <br><br>
 
