@@ -147,7 +147,7 @@ At the core, I care about one thing: **understanding systems deeply, from transi
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-dev-nayak&bg_color=0B1220&color=C9D1D9&title_color=67E8F9&line=8B5CF6&point=67E8F9&area_color=312E81&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity&days=35" width="95%" />
+<img src="https://github-readme-activity-graph-sigma-bay.vercel.app/graph?username=soumya-dev-nayak&bg_color=0B1220&color=C9D1D9&title_color=67E8F9&line=8B5CF6&point=67E8F9&area_color=312E81&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity&days=35" width="95%" />
 
 <br><br>
 
