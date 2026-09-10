@@ -26,6 +26,8 @@ Exploring **AI-assisted design and verification** for faster iteration, deeper a
 
 At the core, I care about one thing: **understanding systems deeply, from transistor to architecture, and building them properly.**
 
+New REPO post or update with something new in every Sunday !!
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## Tech Stack
