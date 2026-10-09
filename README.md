@@ -144,7 +144,7 @@ New REPO post or update with something new in every Sunday !!
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats-zavo.vercel.app?user=soumya-dev-nayak&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=soumya-dev-nayak&theme=cobalt)](https://git.io/streak-stats)
 
 <br><br>
 
