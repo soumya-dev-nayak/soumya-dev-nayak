@@ -148,7 +148,7 @@ New REPO post or update with something new in every Sunday !!
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-dev-nayak&bg_color=0B1220&color=C9D1D9&title_color=67E8F9&line=8B5CF6&point=67E8F9&area_color=312E81&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity&days=35" width="95%" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soumya-dev-nayak)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 
