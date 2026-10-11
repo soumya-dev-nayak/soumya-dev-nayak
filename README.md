@@ -148,10 +148,6 @@ New REPO post or update with something new in every Sunday !!
 
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soumya-dev-nayak)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br><br>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
