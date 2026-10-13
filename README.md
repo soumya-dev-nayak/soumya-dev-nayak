@@ -156,6 +156,6 @@ New REPO post or update with something new in every Sunday !!
 
 `Open to internships and graduate roles in VLSI, RTL & Hardware Design`
 
-### Build → Simulate → Verify → Implement → Understand
+### Understand → Build → Simulate → Verify → Implement
 
 </div>
